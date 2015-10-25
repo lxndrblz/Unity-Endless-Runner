@@ -1,4 +1,4 @@
-Unity-Endless-Runner
+**Unity Endless Runner Script**
 Create an endless runner in Unity 3D
 ======
 With the wish to create my own endless runner game in Unity 3D. I started this project in December 2014. My attemp was to create an endless runner, that generates a map both randomly and on the fly. In this repository you can find my current development progress. Eventhough most of the basic functions are working I want to point out that it is definitely not finished. If you want to help me  finish it, or if you have any ideas on how I could improve it feel free to reach out to me. 
